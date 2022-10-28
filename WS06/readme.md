@@ -942,8 +942,8 @@ You may be asked to talk about your reflection (as a presentation) in class.
 
 ```reflect.txt``` and:
 ```Text
-Item.cpp
-Item.h
+Basket.cpp
+Basket.h
 main.cpp
 ```
 
